@@ -10,3 +10,4 @@ This is a collection of ReShade Presets, created by me, for use in Mortal Kombat
 
 done! - run pcsx2 and press 'Home' key to bring up ReShade interface
 
+In-Game Screenshots and Videos - https://drive.google.com/drive/u/1/folders/1UvriTMvU7mULV7Frzgs_Mt2nkqskJisG
